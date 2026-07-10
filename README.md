@@ -26,8 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sanji-vinsmoke23/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sanji-vinsmoke23/leetcode/tree/master/0014-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sanji-vinsmoke23/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Sanji-vinsmoke23/leetcode/tree/master/0066-plus-one) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sanji-vinsmoke23/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
